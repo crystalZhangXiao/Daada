@@ -6,6 +6,8 @@ public class ssd {
 	public static void main(String[] args) {
 		System.out.println("sadhsa");
 		System.out.println("weewqe");
+		System.out.println("sadhsa");
+		System.out.println("weewqe");
 	}
 
 }
